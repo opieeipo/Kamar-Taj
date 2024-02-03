@@ -135,10 +135,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#FAISS
-fvdb/
-chatbot/fvdb/
-
+#ENV
+run.cmd
+dev.cmd
 
 profile.publishsettings
 app.yaml
